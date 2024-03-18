@@ -15,7 +15,7 @@ get /api
 # update rate(1 minute)
 
 @plugins
-# architect/plugin-lambda-invoker
+architect/plugin-lambda-invoker
 enhance/arc-plugin-enhance
 
 @tables
